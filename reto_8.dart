@@ -6,8 +6,7 @@ void main(List<String> args) {
   #                  OCTAVO RETO DE PROGRAMACIÓN                  #
   #                                                               #
   #     Solicitar all usuario tres números enteros y con          #
-  #     ellos calcular su mínimo común múltiplo y su              #
-  #     máximo común divisor.                                     #
+  #     ellos calcular su mínimo común múltiplo                   #
   #     Nota: realizar el proceso con la descomposición en        #
   #     en factores primos                                        #
   ###############################################################*/
